@@ -1,0 +1,90 @@
+\begin{thebibliography}{10}
+
+\bibitem{Zarchan2013Tactical}
+ZARCHAN P. Tactical and strategic missile guidance[M]. 6th ed. Reston: AIAA,
+  2012: 35-105.
+
+\bibitem{NESLINE1981Anew}
+NESLINE F W, ZARCHAN P. A new look at classical vs modern homing missile
+  guidance[J]. Journal of Guidance Control and Dynamics, 1981, 4(1): 78-85.
+
+\bibitem{He2017A}
+HE T L, CHEN W C. A new interpretation of adjoint method in linear time-varying
+  system analysis[C]. IEEE International Conference on CIS \& RAM. Ningbo,
+  China: IEEE, 2017: 58-63.
+
+\bibitem{Wang2007Status}
+王亚飞, 方洋旺, 周晓滨. 比例导引律研究现状及其发展[J].
+  火力与指挥控制, 2007, 32(10): 8-12.\\ WANG Y F, FANG Y W, ZHOU X B.
+  The status quo of proportional navigation guidance law and its
+  development[J]. Fire Control and Command Control, 2007, 32(10): 8-12(in
+  Chinese).
+
+\bibitem{Chen2009Guidance}
+陈峰, 肖业伦, 陈万春.
+  基于零控脱靶量的大气层外超远程拦截制导[J]. 航空学报,
+  2009, 30(09): 1583-1589.\\ CHEN F, XIAO Y L, CHEN W C. Guidance based on zero
+  effort miss for super-range exoatmospheric intercept[J]. Acta Aeronautica Et
+  Astronautica Sinica, 2009, 30(09): 1583-1589(in Chinese).
+
+\bibitem{Chen2008Velocity}
+陈峰, 王育林, 肖业伦等.
+  基于预测脱靶量的远程拦截速度增益导引[J]. 航空学报,
+  2008, 29(06): 1665-1672.\\ CHEN F, WANG Y L, XIAO Y L, et al.
+  Velocity-to-be-gained guidance based on predicted miss distance for
+  long-range intercept[J]. Acta Aeronautica Et Astronautica Sinica, 2008,
+  29(06): 1665-1672(in Chinese).
+
+\bibitem{Su2016Novel}
+SU W S, YAO D N, LI K B, et al. A novel biased proportional navigation guidance
+  law for close approach phase[J]. Chinese Journal of Aeronautics, 2016,
+  29(01): 228-237.
+
+\bibitem{Yu2016Optimal}
+YU W B, CHEN W C, YANG L, et al. Optimal terminal guidance for exoatmospheric
+  interception[J]. Chinese Journal of Aeronautics, 2016, 29(04): 1052-1064.
+
+\bibitem{Weiss2005Adjoint}
+WEISS M. Adjoint method for missile performance analysis on state-space
+  models[J]. Journal of Guidance Control and Dynamics, 2005, 28(2): 236-248.
+
+\bibitem{Zarchan1979Complete}
+ZARCHAN P. Complete statistical analysis of nonlinear missile guidance systems
+  - {SLAM}[J]. Journal of Guidance and Control, 1979, 2(1): 71-78.
+
+\bibitem{CODDINGTON1955Theory}
+CODDINGTON E A, LEVINSON N. Theory of ordinary differential equations[M]. New
+  York: McGraw-Hill Book Company, Inc., 1955: 108-137.
+
+\bibitem{Domb1957susceptibility}
+Domb C, Sykes M F. On the susceptibility of a ferromagnetic above the Curie
+  point[J]. Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences, 1957, 240(1221): 214-228.
+
+\bibitem{Wang2013Time}
+王辉, 林德福, 祁载康等.
+  时变最优的增强型比例导引及其脱靶量解析解[J].
+  红外与激光工程, 2013, 42(03): 692-698.\\ WANG H, LIN D F, QI Z K, et
+  al. Time-varying optimal augmented proportional navigation and miss distance
+  closed-form solutions[J]. Infrared and Laser Engineering, 2013, 42(03):
+  692-698(in Chinese).
+
+\bibitem{Ascher2011first}
+ASCHER, U, GREIF C. A first course in numerical methods[M]. Philadelphia:
+  Society for Industrial and Applied Mathematics, 2011: 35-55.
+
+\bibitem{Higham2002Accuracy}
+HIGHAM N. Accuracy and stability of numerical algorithms[M]. 2nd ed.
+  Philadelphia: Society for Industrial and Applied Mathematics, 2002: 93-104.
+
+\bibitem{He2018Adjoint}
+赫泰龙, 陈万春, 刘芳.
+  高超声速飞行器平稳滑翔扰动运动伴随分析[J/OL].
+  北京航空航天大学学报，（2018-04-18）[2018-04-20].
+  http://kns.cnki.net/kcms/detail/11.2625.V.20180418.1057.003.html\\ HE T L,
+  CHEN W C, LIU F. Adjoint analysis of steady glide with disturbance motion for
+  hypersonic vehicle[J/OL]. Journal of Beijing University of Aeronautics and
+  Astronautics,（2018-04-18）[2018-04-20].
+  http://kns.cnki.net/kcms/detail/11.2625.V.20180418.1057.003.html.
+
+\end{thebibliography}

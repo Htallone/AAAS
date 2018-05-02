@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: TempExample.aux
+The style file: unsrt.bst
+Database file #1: ./TempExample.bib
+You've used 16 entries,
+            1791 wiz_defined-function locations,
+            493 strings with 7448 characters,
+and the built_in function-call counts, 1398 in all, are:
+= -- 64
+> -- 16
+< -- 0
++ -- 16
+- -- 0
+* -- 2
+:= -- 91
+add.period$ -- 16
+call.type$ -- 16
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 80
+empty$ -- 289
+format.name$ -- 0
+if$ -- 369
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 0
+newline$ -- 51
+num.names$ -- 0
+pop$ -- 144
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 95
+stack$ -- 0
+substring$ -- 0
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 18
+write$ -- 82
